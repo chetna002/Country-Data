@@ -1,7 +1,7 @@
 Country Data Dataset
 Description
 
-    The Country-data.csv dataset provides information about various countries and
+    The Country-data  provides information about various countries and
      their characteristics. This dataset is useful for analyzing global trends, performing 
      comparative studies, and building models related to country-specific data.
 
@@ -14,7 +14,7 @@ Data Details
 Usage:
 
     Exploratory Data Analysis (EDA): Explore and visualize various characteristics of countries.
-    Comparative Analysis: Compare countries based on different metrics such as GDP, population, and literacy rates.
+    Comparative Analysis: Compare countries based on different metrics such as gddP, imports, and exports etc.
     Predictive Modeling: Build models to predict country-specific metrics based on other features. 
 
 License
