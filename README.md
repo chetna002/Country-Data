@@ -14,7 +14,7 @@ Data Details
 Usage:
 
     Exploratory Data Analysis (EDA): Explore and visualize various characteristics of countries.
-    Comparative Analysis: Compare countries based on different metrics such as gddP, imports, and exports etc.
+    Comparative Analysis: Compare countries based on different columns such as gddP, imports, and exports etc.
     Predictive Modeling: Build models to predict country-specific metrics based on other features. 
 
 License
